@@ -10,7 +10,7 @@ setup(
     description="A library to download YouTube thumbnails by scraping video pages",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/yt_thumbnail_downloader",
+    url="https://github.com/iconic1009/yt_thumbnail_downloader",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
